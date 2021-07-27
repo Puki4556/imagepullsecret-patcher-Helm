@@ -8,3 +8,5 @@ Helm chart for https://github.com/titansoft-pte-ltd/imagepullsecret-patcher
 Base64 string example:
 {"auths":{"https://index.docker.io/v1/":{"auth":"Base64_of_your_credentials"}},"credsStore":"ecr-login"}
 Base64_of_your_credentials = UserName:Password
+   
+   
